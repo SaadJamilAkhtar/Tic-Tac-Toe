@@ -16,3 +16,8 @@ Run application by creating an instance of TicTacToe.java
 Run application by:
 1. Compile application
 2. run Main.java
+
+## Sample Run
+![Tic Tac Toe](https://github.com/MuhammadSaadJamil/Project-Images/blob/master/Java-tic-tac-toe-1.png?raw=true)
+
+![Tic Tac Toe](https://github.com/MuhammadSaadJamil/Project-Images/blob/master/Java-tic-tac-toe-2.png?raw=true)
